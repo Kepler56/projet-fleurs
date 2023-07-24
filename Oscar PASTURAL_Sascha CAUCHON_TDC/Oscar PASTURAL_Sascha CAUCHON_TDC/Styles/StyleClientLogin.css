@@ -1,0 +1,51 @@
+﻿body {
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#login {
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#title {
+    text-align: center;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.btn:hover {
+    background-color: #3e8e41;
+}
+
+.validators {
+    color: red;
+    font-weight: bold;
+}

@@ -1,0 +1,49 @@
+﻿body {
+}
+
+.leftMenuColumn {
+    width: 250px;
+    float: left;
+    background-color: aliceblue;
+    min-height: 200vh;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+/* Ajouter une bordure au tableau */
+.gridview {
+    border: 1px solid black;
+}
+
+.gridview th {
+    background-color: #0077be;
+    color: white;
+    font-weight: bold;
+    padding: 4px;
+    text-align: left;
+    border: 1px solid black;
+}
+
+/* Styles pour les cellules de données */
+.gridview td {
+    border-bottom: 1px solid #ddd;
+    padding: 4px;
+    border: 1px solid black;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+/* Styles pour les lignes impaires */
+.gridview tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+/* Styles pour les survols de cellules */
+.gridview td:hover {
+    background-color: #e5e5e5;
+    cursor: pointer;
+}

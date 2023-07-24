@@ -1,0 +1,4 @@
+<ListeClients>
+  <Client id_client="1" nombre_commandes="8" />
+  <Client id_client="41" nombre_commandes="3" />
+</ListeClients>

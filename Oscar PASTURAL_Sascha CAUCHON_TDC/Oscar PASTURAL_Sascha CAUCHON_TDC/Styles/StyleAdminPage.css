@@ -1,0 +1,8 @@
+﻿body {
+}
+.leftMenuColumn{
+    width:150px;
+    float:left;
+    background-color:aliceblue;
+    min-height:100vh;
+}

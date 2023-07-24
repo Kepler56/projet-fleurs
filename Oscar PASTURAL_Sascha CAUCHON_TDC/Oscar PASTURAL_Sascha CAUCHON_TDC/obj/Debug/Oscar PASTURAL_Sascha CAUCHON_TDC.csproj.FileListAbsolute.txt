@@ -1,0 +1,176 @@
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Oscar PASTURAL_Sascha CAUCHON_TDC.dll.config
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Oscar PASTURAL_Sascha CAUCHON_TDC.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Oscar PASTURAL_Sascha CAUCHON_TDC.pdb
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csc.exe
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csc.exe.config
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csc.rsp
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csi.exe
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csi.exe.config
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csi.rsp
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.AppContext.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Console.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Net.Http.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\vbc.exe
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\vbc.exe.config
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\vbc.rsp
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.csproj.AssemblyReference.cache
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.csproj.CopyComplete
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.pdb
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\BouncyCastle.Crypto.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Google.Protobuf.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Compression.LZ4.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Hash.xxHash.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\MySql.Data.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\MySqlConnector.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Buffers.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.IO.Pipelines.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Memory.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Numerics.Vectors.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\BouncyCastle.Crypto.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Google.Protobuf.pdb
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Google.Protobuf.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Compression.LZ4.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Hash.xxHash.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\MySql.Data.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\MySqlConnector.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Buffers.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.IO.Pipelines.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Memory.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Numerics.Vectors.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sascha\OneDrive\Desktop\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Oscar PASTURAL_Sascha CAUCHON_TDC.dll.config
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Oscar PASTURAL_Sascha CAUCHON_TDC.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Oscar PASTURAL_Sascha CAUCHON_TDC.pdb
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csc.exe
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csc.exe.config
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csc.rsp
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csi.exe
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csi.exe.config
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\csi.rsp
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.AppContext.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Console.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Net.Http.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\vbc.exe
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\vbc.exe.config
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\vbc.rsp
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\BouncyCastle.Crypto.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Google.Protobuf.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Compression.LZ4.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Hash.xxHash.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\MySql.Data.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\MySqlConnector.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Buffers.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.IO.Pipelines.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Memory.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Numerics.Vectors.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\BouncyCastle.Crypto.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Google.Protobuf.pdb
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Google.Protobuf.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Compression.LZ4.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\K4os.Hash.xxHash.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\MySql.Data.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\MySqlConnector.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Buffers.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.IO.Pipelines.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Memory.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Numerics.Vectors.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.csproj.AssemblyReference.cache
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.csproj.CopyComplete
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.dll
+C:\Users\Sascha\OneDrive\Desktop\Projet Oscar PASTURAL_Sascha Cauchon TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\Oscar PASTURAL_Sascha CAUCHON_TDC\obj\Debug\Oscar PASTURAL_Sascha CAUCHON_TDC.pdb

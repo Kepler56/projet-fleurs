@@ -1,0 +1,17 @@
+﻿body {
+    margin: 0 auto;
+    max-width: 960px; 
+}
+.header {
+    background-color: royalblue;
+    color: white;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 15px;
+    margin-top: 0px;
+    text-align: center;
+    position: relative;
+    z-index: 9999;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+}
